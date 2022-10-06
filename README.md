@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LRz00, or just Lara
-- 👀 I’m interested in learning web development at a full stack level!
-- 🌱 I’m currently learning React and other skills!
-- 💞️ I’m looking to collaborate on any fun projects involving JavaScript! All new knoledge is welcomed!
+- 👀 I’m interested in learning development at a full stack level!
+- 🌱 I’m currently learning systems development at IFBA.
+- 💞️ I’m looking to collaborate on any fun projects! All new knoledge is welcomed!
 - 📫 How to reach me: I'm on instagram at @heyylara, feel free to DM me!
 
 <!---
