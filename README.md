@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LRz00, or just Lara
-- 👀 I’m interested in learning development at a full stack level!
-- 🌱 I’m currently learning systems development at IFBA.
+- 👀 I’m interested in learning programming at a full-stack level!
+- 🌱 I’m currently studing software development at IFBA.
 - 💞️ I’m looking to collaborate on any fun projects! All new knoledge is welcomed!
 - 📫 How to reach me: I'm on instagram at @heyylara, feel free to DM me!
 
