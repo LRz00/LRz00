@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LRz00, or just Lara
 - 👀 I’m interested in learning programming at a full-stack level!
-- 🌱 I’m currently studing software development at IFBA.
+- 🌱 I’m currently studying software development at IFBA.
 - 💞️ I’m looking to collaborate on any fun projects! All new knoledge is welcomed!
 
 <!---
