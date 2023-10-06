@@ -1,10 +1,10 @@
 # Hi, I'm Lara! 👋
 
-I'm a 22-year-old student studying **Análise e Desenvolvimento de Sistemas** at IFBA, and I'm passionate about software development. Welcome to my GitHub profile!
+I'm a 22-year-old student studying **Software Development** at IFBA. Welcome to my GitHub profile!
 
 ## About Me
 
-- 📚 Currently studying **Análise e Desenvolvimento de Sistemas** at IFBA.
+- 📚 Currently studying at IFBA.
 - 💻 I have experience in various programming languages, including C, JavaScript, and my current focus is on Java.
 - 🌱 I'm always learning and exploring new technologies to expand my skill set.
 - 🤝 Open to collaborations and new projects.
