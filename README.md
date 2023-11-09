@@ -10,11 +10,10 @@ I'm a 22-year-old student studying **Software Development** at IFBA. Welcome to 
 - 💻 I have experience in various programming languages, including C, JavaScript, and my current focus is on Java.
 - 🌱 I'm always learning and exploring new technologies to expand my skill set.
 - 🤝 Open to collaborations and new projects.
-## My Languages:
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LRz00&layout=compact)
-
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LRz00&theme=radical)](https://git.io/streak-stats)
+![LRz00's Stats](https://github-readme-stats.vercel.app/api?username=LRz00&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![LRz00's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LRz00&theme=dracula&hide_border=true)
+![LRz00's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LRz00&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 <!---
 LRz00/LRz00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
