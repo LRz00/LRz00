@@ -8,7 +8,8 @@ I'm a 22-year-old student studying **Software Development** at IFBA. Welcome to 
     
 ## About Me
 - 📚 Currently studying at IFBA.
-- 💻 I have experience in various programming languages, including C, JavaScript, and my current focus is on Java.
+- 💻 I have experience in various programming languages, including C, JavaScript, and Java(Including **Spring Boot**).
+- 📊 I'm skilled in working with relational databases, particularly **MySQL**.
 - 🌱 I'm always learning and exploring new technologies to expand my skill set.
 - 🤝 Open to collaborations and new projects.
 ### :fire: My Stats :
