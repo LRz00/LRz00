@@ -17,6 +17,7 @@ I'm a 22-year-old student studying **Software Development** at IFBA. Welcome to 
 ![LRz00's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LRz00&theme=dracula&hide_border=true)
 ![LRz00's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LRz00&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <!---
 LRz00/LRz00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
