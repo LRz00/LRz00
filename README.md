@@ -16,9 +16,6 @@ Tenho 23 anos e atualmente estou estudando **Análise e Desenvolvimento de Siste
  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803.svg?style=for-the-badge&logo=typeorm&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
  	![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
 
-### :fire: My Stats :
-![LRz00's Stats](https://github-readme-stats.vercel.app/api?username=LRz00&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-![LRz00's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LRz00&theme=dracula&hide_border=true)
 ![LRz00's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LRz00&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 <!---
