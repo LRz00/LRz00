@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Lara from Bahia, Brazil<br><br>- 🔭 I’m working as Analyst Developer<br>- 📚 I'm currently learning more about NodeJs<br>- ⚡ In my free time I enjoy watching films.</p>
+<p align="left">I'm Lara from Bahia, Brazil<br><br>- 🔭 I’m working as Junior Developer<br>- 📚 I'm currently learning more about NodeJs<br>- ⚡ In my free time I enjoy watching films.</p>
 
 ###
 
