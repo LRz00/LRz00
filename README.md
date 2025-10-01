@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Lara from Bahia, Brazil<br><br>- 🔭 I’m working as a Back-end Junior Developer, mainly working with NodeJs and NestJs<br>- 📚 I'm currently learning more about NodeJs<br>- ⚡ In my free time I enjoy watching films, playing video games, and learning about the many areas of game making, from design to programming.</p>
+<p align="left">I'm Lara from Bahia, Brazil<br><br>- 🔭 I’m working as a Back-end Junior Developer, mainly working with NodeJs and NestJs<br>- 📚 I'm currently learning more about NodeJs<br>
 
 ###
 
