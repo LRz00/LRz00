@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Lara from Bahia, Brazil<br><br>- 🔭 I’m working as a Back-end Junior Developer, mainly working with NodeJs and NestJs<br>- 📚 I'm currently learning more about NodeJs<br>
+<p align="left">I'm Lara from Bahia, Brazil<br><br>- 🔭 I’m working as a Back-end Junior Developer, mainly working with NodeJs and NestJs<br>- 📚 I'm currently learning more about NodeJs and Python<br>
 
 ###
 
