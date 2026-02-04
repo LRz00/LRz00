@@ -64,6 +64,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </div>
+### 
+
+## 💻 Recent Personal Learning Projects
+
+- [Newsletter Service](https://github.com/LRz00/newsletter-service)  
+  Node.js service for newsletter management.
+
+- [Web Scraper](https://github.com/LRz00/webscrap)  
+  Python-based web scraper with event generation and Discord bot notifications.
+
 
 ###
 
@@ -71,3 +81,5 @@
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=LRz00&show_icons=true&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=LRz00&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LRz00&layout=compact&theme=tokyonight)
+
+  
