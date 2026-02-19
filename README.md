@@ -2,8 +2,6 @@
   <img height="150" src="https://giffiles.alphacoders.com/124/12427.gif"  />
 </div>
 
-
-
 ###
 
 <div align="center">
@@ -28,7 +26,13 @@
 
 ###
 
-<p align="left">I'm Lara from Bahia, Brazil<br><br>- 🔭 I’m working as a Back-end Junior Developer, mainly working with NodeJs and NestJs<br>- 📚 I'm currently learning more about NodeJs and Python<br>
+<p align="left">
+I'm Lara, a junior full-stack developer with a back-end focus, based in Bahia, Brazil.
+
+- 🔭 Working mainly with Node.js and NestJS on backend APIs and services  
+- 🧠 Interested in distributed systems, messaging, and backend architecture  
+- 📚 Currently deepening my knowledge in Node.js, Python, and cloud-native tools  
+</p>
 
 ###
 
