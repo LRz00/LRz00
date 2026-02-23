@@ -106,6 +106,6 @@ I'm Lara, a junior full-stack developer with a back-end focus, based in Bahia, B
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=LRz00&show_icons=true&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=LRz00&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LRz00&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LRz00&layout=compact&theme=tokyonight&hide=cmake,c%2B%2B,kotlin,ruby)
 
   
